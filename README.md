@@ -1,4 +1,4 @@
-# repocitorio par aprender git
+# repocitorio para aprender git
 
 
 
